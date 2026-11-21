@@ -1,0 +1,8 @@
+# Working files: source footage, renders and grader output are not part of
+# the submitted entry. Only README.md, LICENSE, VIDEO.json and main.ts ship.
+footage/
+*.mp4
+*.jpg
+out/
+node_modules/
+UPLOAD.md
